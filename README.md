@@ -1,6 +1,5 @@
 - 👋 Olá, sou @gabriel-hawerroth
 - 👀 Estou interessado em aprender programação
-- 🌱 Atualmente estou aprendendo sobre a linguagem Java na Alura
 - 📫 email de contato: gabrielhawerroth04@gmail.com
 
 <!---
