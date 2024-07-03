@@ -1,16 +1,19 @@
-## Hi there 👋
+## Olá, meu nome é Gabriel Hawerroth 👋
 
-<!--
-**gabriel-hawerroth/gabriel-hawerroth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px">
 
-Here are some ideas to get you started:
+Sou um desenvolvedor de software apaixonado por criar soluções de alto padrão com foco na qualidade e performance. Trabalho com uma ampla gama de tecnologias para fornecer resultados excepcionais de acordo com cada desafio.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Acadêmico em ADS
+- 💼 Software Developer na [Senior Sistemas](https://www.senior.com.br/)
+- 💲Disponível para projetos freelancer
+- 📬 Entre em contato comigo através dos links abaixo ⤵️  
+  
+[![Gmail](https://img.shields.io/badge/-Gmail-333333?style=flat&logo=gmail)](mailto:gabrielhawerroth04@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/gabriel-hawerroth/)  
+![]()  
+
+## Linguagens  
+![My Skills](https://skillicons.dev/icons?i=java,ts,html,css,go,js,dart)
+## Tecnologias
+![My Skills](https://skillicons.dev/icons?i=aws,linux,spring,postgres,npm,flutter,postman,nginx)
