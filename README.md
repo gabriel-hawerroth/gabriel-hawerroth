@@ -2,7 +2,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px">
 
-Sou um desenvolvedor de software apaixonado por criar soluções de alto padrão com foco na qualidade e performance. Trabalho com uma ampla gama de tecnologias para fornecer resultados excepcionais de acordo com cada desafio.  
+Sou um desenvolvedor de software apaixonado por criar soluções de alto padrão com foco na qualidade, performance e experiência do usuário. Trabalho com uma ampla gama de tecnologias para fornecer resultados excepcionais de acordo com cada desafio.  
 
 - 🎓 Acadêmico em ADS
 - 💼 Software Developer na [Senior Sistemas](https://www.senior.com.br/)
