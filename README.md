@@ -14,6 +14,6 @@ Sou um desenvolvedor de software apaixonado por criar soluções de alto padrão
 ![]()  
 
 ## Linguagens  
-![My Skills](https://skillicons.dev/icons?i=java,ts,html,css,go,js,dart)
+![My Skills](https://skillicons.dev/icons?i=java,go,ts,dart,html,css,js)
 ## Tecnologias
 ![My Skills](https://skillicons.dev/icons?i=aws,linux,spring,postgres,npm,flutter,postman,nginx)
